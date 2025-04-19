@@ -1,0 +1,50 @@
+00:35:45.430 [main] INFO  com.example.utils.TestLogger - Браузер инициализирован и открыта страница входа.
+00:35:45.440 [main] INFO  com.example.utils.TestLogger - Начало теста входа для пользователя: tomsmith
+00:35:46.350 [main] INFO  com.example.utils.TestLogger - Вход успешен для пользователя: tomsmith
+00:35:46.609 [main] INFO  com.example.utils.TestLogger - Браузер закрыт.
+00:35:49.403 [main] INFO  com.example.utils.TestLogger - Браузер инициализирован и открыта страница входа.
+00:35:49.404 [main] INFO  com.example.utils.TestLogger - Начало теста входа для пользователя: wronguser
+00:35:50.311 [main] INFO  com.example.utils.TestLogger - Вход не удался для пользователя: wronguser
+00:35:50.518 [main] INFO  com.example.utils.TestLogger - Браузер закрыт.
+00:35:53.335 [main] INFO  com.example.utils.TestLogger - Браузер инициализирован и открыта страница входа.
+00:35:53.336 [main] INFO  com.example.utils.TestLogger - Начало теста выхода из системы.
+00:35:53.336 [main] INFO  com.example.utils.TestLogger - Начало теста входа для пользователя: tomsmith
+00:35:54.204 [main] INFO  com.example.utils.TestLogger - Вход успешен для пользователя: tomsmith
+00:35:54.711 [main] INFO  com.example.utils.TestLogger - Тест выхода из системы завершен.
+00:35:54.990 [main] INFO  com.example.utils.TestLogger - Браузер закрыт.
+00:37:42.175 [main] INFO  com.example.utils.TestLogger - Браузер инициализирован и открыта страница входа.
+00:37:42.188 [main] INFO  com.example.utils.TestLogger - Начало теста входа для пользователя: tomsmith
+00:37:43.187 [main] INFO  com.example.utils.TestLogger - Вход успешен для пользователя: tomsmith
+00:37:43.515 [main] INFO  com.example.utils.TestLogger - Браузер закрыт.
+00:37:46.389 [main] INFO  com.example.utils.TestLogger - Браузер инициализирован и открыта страница входа.
+00:37:46.390 [main] INFO  com.example.utils.TestLogger - Начало теста входа для пользователя: wronguser
+00:37:47.241 [main] INFO  com.example.utils.TestLogger - Вход не удался для пользователя: wronguser
+00:37:47.484 [main] INFO  com.example.utils.TestLogger - Браузер закрыт.
+00:37:50.269 [main] INFO  com.example.utils.TestLogger - Браузер инициализирован и открыта страница входа.
+00:37:50.269 [main] INFO  com.example.utils.TestLogger - Начало теста выхода из системы.
+00:37:50.270 [main] INFO  com.example.utils.TestLogger - Начало теста входа для пользователя: tomsmith
+00:37:51.123 [main] INFO  com.example.utils.TestLogger - Вход успешен для пользователя: tomsmith
+00:37:51.618 [main] INFO  com.example.utils.TestLogger - Тест выхода из системы завершен.
+00:37:51.864 [main] INFO  com.example.utils.TestLogger - Браузер закрыт.
+00:44:51.715 [main] INFO  com.example.utils.TestLogger - Браузер инициализирован и открыта страница входа.
+00:44:51.726 [main] INFO  com.example.utils.TestLogger - Начало теста входа для пользователя: tomsmith
+00:44:52.659 [main] INFO  com.example.utils.TestLogger - Вход успешен для пользователя: tomsmith
+00:44:52.926 [main] INFO  com.example.utils.TestLogger - Браузер закрыт.
+00:44:55.654 [main] INFO  com.example.utils.TestLogger - Браузер инициализирован и открыта страница входа.
+00:44:55.655 [main] INFO  com.example.utils.TestLogger - Начало теста входа для пользователя: wronguser
+00:44:57.032 [main] INFO  com.example.utils.TestLogger - Вход не удался для пользователя: wronguser
+00:44:57.265 [main] INFO  com.example.utils.TestLogger - Браузер закрыт.
+00:45:00.063 [main] INFO  com.example.utils.TestLogger - Браузер инициализирован и открыта страница входа.
+00:45:01.365 [main] INFO  com.example.utils.TestLogger - Тест выхода из системы завершен.
+00:45:01.599 [main] INFO  com.example.utils.TestLogger - Браузер закрыт.
+00:55:36.287 [main] INFO  com.example.utils.TestLogger - Браузер инициализирован и открыта страница входа.
+00:55:36.299 [main] INFO  com.example.utils.TestLogger - Начало теста входа для пользователя: tomsmith
+00:55:37.220 [main] INFO  com.example.utils.TestLogger - Вход успешен для пользователя: tomsmith
+00:55:37.477 [main] INFO  com.example.utils.TestLogger - Браузер закрыт.
+00:55:40.310 [main] INFO  com.example.utils.TestLogger - Браузер инициализирован и открыта страница входа.
+00:55:40.311 [main] INFO  com.example.utils.TestLogger - Начало теста входа для пользователя: wronguser
+00:55:41.166 [main] INFO  com.example.utils.TestLogger - Вход не удался для пользователя: wronguser
+00:55:41.420 [main] INFO  com.example.utils.TestLogger - Браузер закрыт.
+00:55:44.071 [main] INFO  com.example.utils.TestLogger - Браузер инициализирован и открыта страница входа.
+00:55:45.345 [main] INFO  com.example.utils.TestLogger - Тест выхода из системы завершен.
+00:55:45.594 [main] INFO  com.example.utils.TestLogger - Браузер закрыт.
