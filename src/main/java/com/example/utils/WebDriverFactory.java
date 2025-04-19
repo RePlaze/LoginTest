@@ -8,7 +8,7 @@ import org.slf4j.LoggerFactory;
 
 public class WebDriverFactory {
     private static final Logger logger = LoggerFactory.getLogger(WebDriverFactory.class);
-    private static final String DEFAULT_DRIVER_PATH = "C:\\Users\\nazen\\Desktop\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe";
+    private static final String DEFAULT_DRIVER_PATH = "chromedriver.exe";
     private static final String CHROME_VERSION_PROPERTY = "chrome.version";
 
     public static WebDriver createDriver() {
